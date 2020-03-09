@@ -1,7 +1,7 @@
 title: AlgoShitPo-draft
 email:
 description: draft
-baseurl: 'draft/'
+baseurl: '/draft'
 url: 'http://algoshitpo.github.io'
 timezone: Asia/Seoul
 
