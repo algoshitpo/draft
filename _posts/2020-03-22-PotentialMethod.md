@@ -2,7 +2,7 @@
 layout: post
 title: 'Potential Method'
 author: ryute
-date: 2020-02-16 2:00
+date: 2020-03-22 00:04
 tags: [Math]
 ---
 
@@ -18,7 +18,7 @@ $$
 \newcommand{\zzag}{\mbox{Zig-zag}}
 \newcommand{\bf}{\mbox{Before}}
 \newcommand{\aft}{\mbox{After}}
-\newcommand{\subt}{\mbox{Subtrees}}
+\newcommand{\subt}{\mbox{Subtrees}}
 $$
 
 ## Intro
